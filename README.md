@@ -3,9 +3,9 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D. Candidate in Management Information Systems | University of Illinois at Chicago (_May 2022_)								       		
-- M.Sc., Industrial Engineering	| University of Tehran (_December 2019_)	 			        		
-- B.Sc., Computer Engineering | Isfahan University of Technology (_May 2017_)
+- Ph.D. Candidate in Management Information Systems | University of Illinois at Chicago (_2019--2023 (expected)_)								       		
+- M.Sc., Industrial Engineering	| University of Tehran  			        		
+- B.Sc., Computer Engineering | Isfahan University of Technology 
 
 ## Work Experience
 **Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
