@@ -1,6 +1,6 @@
 # Data Scientist
 
-#### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
+#### Technical Skills: Python (Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch), R, SQL
 
 ## Education
 - Ph.D. Candidate in Management Information Systems | University of Illinois at Chicago (_2019-2024 (expected)_)								       		
