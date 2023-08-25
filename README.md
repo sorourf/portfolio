@@ -3,8 +3,8 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D., Physics | The University of Texas at Dallas (_May 2022_)								       		
-- M.S., Physics	| The University of Texas at Dallas (_December 2019_)	 			        		
+- Ph.D. Candidate in Management Information Systems | University of Illinois at Chicago (_May 2022_)								       		
+- M.Sc., Industrial Engineering	| University of Tehran (_December 2019_)	 			        		
 - B.Sc., Computer Engineering | Isfahan University of Technology (_May 2017_)
 
 ## Work Experience
