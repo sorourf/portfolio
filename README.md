@@ -3,7 +3,7 @@
 #### Technical Skills: Python, SQL, AWS, Snowflake, MATLAB
 
 ## Education
-- Ph.D. Candidate in Management Information Systems | University of Illinois at Chicago (_2019-2023 (expected)_)								       		
+- Ph.D. Candidate in Management Information Systems | University of Illinois at Chicago (_2019-2024 (expected)_)								       		
 - M.Sc., Industrial Engineering	| University of Tehran  			        		
 - B.Sc., Computer Engineering | Isfahan University of Technology 
 
