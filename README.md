@@ -42,8 +42,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 - [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
 
 ## Publications
-1. Basak, E., Al Balawi, R., Fatemi, S., & Tafti, A., When Crisis Hits: Bike-Sharing Platforms amid the Covid-19 Pandemic., Accepted for publication in Plos One.
-2. Wijeratne, L.O.; Kiv, D.R.; Aker, A.R.; Talebi, S.; Lary, D.J. Using Machine Learning for the Calibration of Airborne Particulate Sensors. Sensors 2020, 20, 99.
-
-
+1. Basak, E., Al Balawi, R., Fatemi, S., and Tafti, A., “When Crisis Hits: Bike-Sharing Platforms amid the Covid-19 Pandemic,” Plos One, volume 18, April 2023
+2. Fatemi, S. and Hu, Y., “A Comparative Analysis of Fine-Tuned LLMs and Few-Shot Learning of LLMs for Financial Sentiment Analysis,” Submitted to 4th ACM International Conference on AI in Finance (ICAIF’23)
+   
 - [Data Science Blog](https://medium.com/@shawhin)
