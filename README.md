@@ -24,7 +24,7 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - Informs, Fall 2023
+- Predicting Stock Market Trends Utalizing LLMs - Informs, Fall 2023
 
 ## Publications
 1. Basak, E., Al Balawi, R., Fatemi, S., and Tafti, A., “When Crisis Hits: Bike-Sharing Platforms amid the Covid-19 Pandemic,” Plos One, volume 18, April 2023
