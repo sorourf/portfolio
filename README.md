@@ -7,14 +7,6 @@
 - M.Sc., Industrial Engineering	| University of Tehran  			        		
 - B.Sc., Computer Engineering | Isfahan University of Technology 
 
-## Work Experience
-**Data Scientist @ Toyota Financial Services (_June 2022 - Present_)**
-- Uncovered and corrected missing step in production data pipeline which impacted over 70% of active accounts
-- Redeveloped loan originations model which resulted in 50% improvement in model performance and saving 1 million dollars in potential losses
-
-**Data Science Consultant @ Shawhin Talebi Ventures LLC (_December 2020 - Present_)**
-- Conducted data collection, processing, and analysis for novel study evaluating the impact of over 300 biometrics variables on human performance in hyper-realistic, live-fire training scenarios
-- Applied unsupervised deep learning approaches to longitudinal ICU data to discover novel sepsis sub-phenotypes
 
 ## Projects
 ### Data-Driven EEG Band Discovery with Decision Trees
@@ -32,17 +24,10 @@ Used **Matlab** to train over 100 machine learning models which estimated partic
 ![Bike Study](/assets/img/bike_study.jpeg)
 
 ## Talks & Lectures
-- Causality: The new science of an old question - GSP Seminar, Fall 2021
-- Guest Lecture: Dimensionality Reduction - Big Data and Machine Learning for Scientific Discovery (PHYS 5336), Spring 2021
-- Guest Lecture: Fourier and Wavelet Transforms - Scientific Computing (PHYS 5315), Fall 2020
-- A Brief Introduction to Optimization - GSP Seminar, Fall 2019
-- Weeks of Welcome Poster Competition - UTD, Fall 2019
-- A Brief Introduction to Networks - GSP Seminar, Spring 2019
-
-- [Data Science YouTube](https://www.youtube.com/channel/UCa9gErQ9AE5jT2DZLjXBIdA)
+- Causality: The new science of an old question - Informs, Fall 2023
 
 ## Publications
 1. Basak, E., Al Balawi, R., Fatemi, S., and Tafti, A., “When Crisis Hits: Bike-Sharing Platforms amid the Covid-19 Pandemic,” Plos One, volume 18, April 2023
 2. Fatemi, S. and Hu, Y., “A Comparative Analysis of Fine-Tuned LLMs and Few-Shot Learning of LLMs for Financial Sentiment Analysis,” Submitted to 4th ACM International Conference on AI in Finance (ICAIF’23)
    
-- [Data Science Blog](https://medium.com/@shawhin)
+
