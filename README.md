@@ -13,6 +13,12 @@
 
 Implemented question answering with 10-Q reports using different methods, including ChromaDB and RetrievalQA, Pinecone and load_qa_chain, and OpenAI Assistants API.
 
+### Fine-tuning Llama-7b model for question answering
+[Link](https://github.com/sorourf/Fine-tune-LLMs)
+
+### Reinforcement Learning with Human Feedback (RLHF) to reduce harmlessness
+[Link](https://github.com/sorourf/RLHF-RLAIF)
+
 ## Talks & Lectures
 - Predicting Stock Market Trends Utalizing LLMs - Informs, Fall 2023
 
