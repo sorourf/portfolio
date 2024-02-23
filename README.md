@@ -1,4 +1,4 @@
-# Data Scientist
+# ML Researcher | NLP | LLMs
 
 #### Technical Skills: Python (Numpy, Pandas, Scikit-learn, TensorFlow, PyTorch), R, SQL
 
