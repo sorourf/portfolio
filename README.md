@@ -11,6 +11,7 @@
 #### Experimenting with Fine-tuning and Few-shot Prompting Capabilities of LLMs 
 • Instruct Fine‑tuned Mistral‑7B, Llama3‑7B, and Phi3 models for different financial classification tasks such as sentiment analysis,
 relation extraction, and trend prediction.[Link](https://github.com/sorourf/Prompt-Engineering)
+
 • Experimented performance of few‑shot prompting capabilities of Mistral‑7B, Llama3‑7B, and Phi3 models for different financial
 classification tasks such as sentiment analysis, relation extraction, and trend prediction.[Link](https://github.com/sorourf/Fine-tuning-LLMs)
 
