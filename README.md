@@ -17,8 +17,8 @@ Implemented question answering with 10-Q reports using different methods, includ
 ### Reinforcement Learning with Human Feedback (RLHF) to reduce harmlessness [Link](https://github.com/sorourf/RLHF-RLAIF)
 
 ## Talks & Lectures
-- Predicting Stock Market Trends Utalizing LLMs - Informs, Fall 2023
-
+- Predicting Stock Market Trends Utilizing Large Language Models - INFORMS, Phoenix, Fall 2023
+- A Comparative Analysis of Fine‑Tuned LLMs and Few‑Shot Learning of LLMs for Financial Sentiment Analysis - ICAIF'23 Workshop on NLP and Network Analysis in Financial Applications, New York, Fall 2023
 ## Publications
 1. Basak, E., Al Balawi, R., Fatemi, S., and Tafti, A., “When Crisis Hits: Bike-Sharing Platforms amid the Covid-19 Pandemic,” Plos One, volume 18, April 2023
 2. Fatemi, S. and Hu, Y., “A Comparative Analysis of Fine-Tuned LLMs and Few-Shot Learning of LLMs for Financial Sentiment Analysis,” Submitted to 4th ACM International Conference on AI in Finance (ICAIF’23)
